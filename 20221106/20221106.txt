@@ -1,0 +1,15 @@
+mjs is to focus the use of ES Module
+
+# what ithe hack is event loop to do task watch it
+
+Assignment
+1   prompt sync 
+2   Add class and try to understand how it works 
+3   number into words converter
+
+# Event loop 
+    ## all synchronous calls are tackle by web api there is que known as event loop
+    its behavious is fifo 
+
+syncronous architechture line by line, JS is a single threaded 
+Asynchronous is
